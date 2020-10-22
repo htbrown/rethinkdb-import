@@ -1,0 +1,25 @@
+{
+  "name": "rethinkdb-import",
+  "version": "1.0.0",
+  "description": "A node-based RethinkDB JSON importer because the one built in is broken.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/htbrown/rethinkdb-import.git"
+  },
+  "author": "Hayden Brown",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/htbrown/rethinkdb-import/issues"
+  },
+  "homepage": "https://github.com/htbrown/rethinkdb-import#readme",
+  "dependencies": {
+    "clear-screen": "^1.0.0",
+    "input": "^1.0.1",
+    "journl": "^1.0.7",
+    "rethinkdb": "^2.4.2"
+  }
+}
