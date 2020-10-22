@@ -4,7 +4,6 @@
     See LICENSE file for licencing information.
 */
 
-const { table } = require('console');
 const r = require('rethinkdb'),
     Journl = require('journl'),
     clear = require('clear-screen'),
