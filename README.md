@@ -3,7 +3,7 @@ A node-based RethinkDB JSON importer because the one built in is broken.
 
 ## Documentation
 
-Simply run the command `node .` in a terminal pointed to the folder containing the repo files and follow the instructions.
+Simply run the command `node .` in a terminal pointed to the folder containing the repo files and follow the instructions. Make sure you've installed all dependencies required beforehand by running the command `npm i` in the same terminal.
 
 You need to have an existing table and database set up in order to use this program - it will not erase any data currently in a table.
 
